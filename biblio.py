@@ -1,4 +1,3 @@
-# Maycon Add options to continue running the code!
 from pathlib import Path
 
 # Setting the file paths
