@@ -1,0 +1,1 @@
+This application is a symple client register for library's, where you can register clients and verify the books the client took. To use this code, you need to have python installed on your machine as well as a recent compiler, after that just run the application.
